@@ -8,7 +8,6 @@ export interface TicketInfo {
   status: VerificationStatus;
   code: string;
   lastUsed?: string;
-  expiryDate?: string;
 }
 
 export interface VerificationResult {
