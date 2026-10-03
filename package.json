@@ -1,5 +1,5 @@
 {
-  "name": "ticket-verifier",
+  "name": "ticket-check",
   "private": true,
   "version": "0.0.0",
   "type": "module",
